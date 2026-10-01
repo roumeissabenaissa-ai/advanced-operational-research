@@ -42,3 +42,14 @@ The main goal is to **apply, compare, and analyze different optimization techniq
 - CBC
 - Gurobi
 - Jupyter Notebook / Google Colab
+
+# Author
+
+**Hamdane Salsabil & Benaissa Roumeissa**
+
+Master 1 – SDIA
+
+2025 / 2026
+
+**Team Project**
+
